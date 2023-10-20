@@ -1,4 +1,4 @@
-function Header(header,counter){
+function Header(header){
 
 return(
     <>
