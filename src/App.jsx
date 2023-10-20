@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <Header title="Acivity 13" />
+      <Header title="Activity 13 - React Components, Props, and useState" />
       <Counter/>
       <Footer footer="Copyright, 2023" />
     </>
